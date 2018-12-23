@@ -1,3 +1,3 @@
 # hello-world
 The first step~
-Here's anwaei from NJUST. I'm learning how to use GitHub.
+<del> Here's anwaei from NJUST. </del> Here's Fu Qien from SEU. I'm learning how to use GitHub.
